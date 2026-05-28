@@ -19,7 +19,7 @@ st.title("GlobalSpeak 📣")
 st.subheader("Escucho lo que quieres traducir.")
 
 
-image = Image.open('traductor.jpg')
+image = Image.open('Traductoor.png')
 
 st.image(image,width=300)
 with st.sidebar:
